@@ -1,10 +1,12 @@
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.TreeSet;
 
 public class CollectionP1 {
 
 	//HashSet<Integer>list1=new HashSet<Integer>();
-	TreeSet<Integer>list1=new TreeSet<Integer>();
+	//TreeSet<Integer>list1=new TreeSet<Integer>();
+	ArrayList<Integer>list1=new ArrayList<Integer>();
 	void get1()
 	{
 		list1.add(1001);
